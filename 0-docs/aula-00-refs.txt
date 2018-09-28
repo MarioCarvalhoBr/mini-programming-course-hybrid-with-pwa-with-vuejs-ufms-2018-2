@@ -1,0 +1,8 @@
+Links:
+https://github.com/MarioDeAraujoCarvalho/
+https://github.com/MarioDeAraujoCarvalho/mini-programming-course-hybrid-with-pwa-with-vuejs-ufms-2018-2
+https://www.udemy.com/git-e-github-para-iniciantes/
+https://www.w3schools.com/
+https://vuejs.org/
+https://www.npmjs.com/
+dontpad.com/
