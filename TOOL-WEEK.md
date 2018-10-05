@@ -9,3 +9,10 @@
 	LINK:  <a href="http://www.dontpad.com/" target="_blank">http://www.dontpad.com/</a>
 <br>
 </strong>
+
+# StackEdit
+<strong>
+	Editor Markdown completo e de código aberto baseado em PageDown, a biblioteca Markdown usada pelo Stack Overflow e os outros sites do Stack Exchange.<br>
+	LINK:  <a href="https://stackedit.io/" target="_blank">https://stackedit.io/</a>
+<br>
+</strong>

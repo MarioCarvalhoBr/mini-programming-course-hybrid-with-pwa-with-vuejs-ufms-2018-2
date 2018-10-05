@@ -1,0 +1,10 @@
+01 - Criar uma conta no Github.com
+02 - Configurar nosso perfil
+03 - Adicionando nossas credênciais no terminal
+04 - Iniciando projeto via terminal
+05 - Iniciando projeto via 'git clone'
+06 - Comitando alterações
+07 - Entendendo a estrutura do Github.com
+08 - Aprendendo sobre Markdown
+09 - Usando o VSCode
+10 - Criando uma conta no Github Education Pack

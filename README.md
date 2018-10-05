@@ -60,8 +60,9 @@
 </strong>
 
 # Go-ahead
-<i>Pequenas oportunidades são muitas vezes o começo de grandes empreendimentos.</i><br>
-<strong>Demóstenes</strong>
+<i>Não importa a cor do céu. Quem faz o dia bonito é você.</i><br>
+<strong>~ Provérbio Popular</strong><br>
+Histórico de go-ahead's: <a href="GO-AHEAD.md">GO-AHEAD.md</a>
 
 # Ferramenta da Semana
 Acesse agora: <a href="TOOL-WEEK.md">TOOL-WEEK.md</a>
@@ -116,23 +117,50 @@ Acesse agora: <a href="TOOL-WEEK.md">TOOL-WEEK.md</a>
 # Módulo 01
 <strong>
 	 Versionamento de código com GIT: <br>
-	 Introdução ao Git. Criando uma conta no Github. O que é o git? O que iremos aprender Quais as ferramentas vamos usar? Nível de conhecimento mínimo.
+	 Introdução ao Git. Criando uma conta no Github. O que é o git? O que iremos aprender Quais as ferramentas vamos usar? Nível de conhecimento mínimo... e muito mais!
 </strong>
 <pre>
 <b>Conteúdo</b>
-	Aula 02 (28/09/2018):
+	Aula 02 (05/10/2018):
 		* Introdução ao Git
-		* Motivação: Porque usar Git
-		* Criando uma conta no Github
+		* Motivação: Porque versionar o código?
+		* Criando uma conta no Github.com
+
 		* O que é o Git?
 		* O que iremos aprender?
+		* Porque começar com Github.com?
+		* Termos frequentes de um repositório Git
+			* Termos: master,clone,commit,fetch ou pull,push,remote,SHA,head,branch
+
 		* Quais as ferramentas instalar e usar?
-		* Como clonar repositórios?
-		* Como comitar minhas alterações?
-		* Criando um README.md
-		* Subindo meu primeiro projeto
+
+		* Criando uma conta no Github.com
+		* Configurando meu perfil
+		* Criando o meu primerio repositório
+		* Configurando o Git com nossas credênciais do GitHub via 'git config'
+		* Verificando se as credênciais estão corretas com 'git config --list'
+		* Inicializando o repositório via 'terminal'
+		* Inicializando o repositório via 'git clone'
+		* Verificando a existência de alterações via 'git status'
+		* Comitando alterações no meu repositório
+		* Entendendo toda a estrutura do Github: 
+			* Nível estrutual: Code, Issues, Pull requests, Projects, Wiki, Insights, Settings
+			* Nível projeto: Commits, Branch, Release, Contributor, License
+		* Criando e entendendo o arquivo .gitignore
+		* Excluíndo repositórios no Github
+		* Usando o VSCode para trabalhar com o Git
+		* Instalando plugins no VSCode
+
+		* O que é Markdown?
+		* Porque usar o Markdown?
+		* Criando um arquivo README.md
+		* Editando arquivos '.md' via VSCode
+
 		* Onde eu acho as referências
-		** Projeto Prático: Criando e etenendo repositórios
+		* Oque posso aprender para virar um GitMaster?
+		* Como conseguir uma conta Student do Github Education?
+
+		** Projeto Prático: Criando, entendendo e versionando projetos.
 
 	Aula 01 (04/10/2018):
 </pre>
@@ -145,10 +173,16 @@ Acesse agora: <a href="TOOL-WEEK.md">TOOL-WEEK.md</a>
 	segundo os termos da licença.
 
 # Extras
-<strong>Extra 1 - Minicurso gratuito versionamento com Git e Github</strong><br>
+<strong>Extra 01 - Minicurso gratuito versionamento com Git e Github</strong><br>
 Tudo que você precisa para começar a versionar seus arquivos e contribuir com a comunidade opensource.<br>
 Segue o link:<br>
 <a href="https://www.udemy.com/git-e-github-para-iniciantes/" target="_blank">Git e Github para iniciantes - By ♥ Udemy </a>
+
+<strong>Extra 02 - Github Education</strong><br>
+Não há substituto para a experiência prática, mas para a maioria dos estudantes, as ferramentas do mundo real podem ter um custo muito alto. É por isso que criamos o GitHub Student Developer Pack com alguns de nossos parceiros e amigos: para oferecer aos alunos acesso gratuito às melhores ferramentas de desenvolvedor em um só lugar, para que possam aprender fazendo.<br>
+Segue o link:<br>
+<a href="https://education.github.com/pack" target="_blank">Student Developer Pack - GitHub Education - By ♥ Github.com </a>
+
 
 # Licença Apache 2.0
 

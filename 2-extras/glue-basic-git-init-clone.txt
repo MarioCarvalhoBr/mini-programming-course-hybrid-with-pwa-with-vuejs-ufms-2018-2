@@ -1,0 +1,30 @@
+## Roteiro inicial básico de uso do git
+// Abrir o terminal
+------------------------------------------------------------------------------
+// Configurando credenciais
+git config --global user.name "Nome Sobrenome"
+git config --global user.email "meu@email.com"
+------------------------------------------------------------------------------
+// Verificar se os dados das credenciais foram realmente setados
+git config --list
+------------------------------------------------------------------------------
+// Iniciando o Projeto via terminal
+mkdir hello-world-git
+git init 
+git remote add origin https://github.com/MarioDeAraujoCarvalho/hello-world-git.git
+git pull origin master
+
+// Iniciando um projeto via 'git clone'
+git clone https://github.com/MarioDeAraujoCarvalho/hello-world-git.git
+cd hello-world-git
+-------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+// Adicione seus arquivos que deseja salvar na pasta criada
+------------------------------------------------------------------------------
+// Comitando alterações
+git add .
+git status
+git commit -a -m "Meu primeiro commit no Git - \o/" 
+git status
+git push origin master
+------------------------------------------------------------------------------
