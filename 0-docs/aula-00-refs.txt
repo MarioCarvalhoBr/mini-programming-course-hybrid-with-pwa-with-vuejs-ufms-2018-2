@@ -6,3 +6,6 @@ https://www.w3schools.com/
 https://vuejs.org/
 https://www.npmjs.com/
 dontpad.com/
+https://git-scm.com/book/pt-br/v1
+https://git-scm.com/book/pt-br/v2
+

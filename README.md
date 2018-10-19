@@ -60,8 +60,8 @@
 </strong>
 
 # Go-ahead
-<i>Não importa a cor do céu. Quem faz o dia bonito é você.</i><br>
-<strong>~ Provérbio Popular</strong><br>
+<i>Jamais, em todo o mundo, o ódio acabou com o ódio; o que acaba com o ódio é o amor.</i><br>
+<strong>~ Buda</strong><br>
 Histórico de go-ahead's: <a href="GO-AHEAD.md">GO-AHEAD.md</a>
 
 # Ferramenta da Semana
@@ -137,6 +137,7 @@ Acesse agora: <a href="TOOL-WEEK.md">TOOL-WEEK.md</a>
 		* Criando uma conta no Github.com
 		* Configurando meu perfil
 		* Criando o meu primerio repositório
+	Aula 03 (19/10/2018):
 		* Configurando o Git com nossas credênciais do GitHub via 'git config'
 		* Verificando se as credênciais estão corretas com 'git config --list'
 		* Inicializando o repositório via 'terminal'
