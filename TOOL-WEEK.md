@@ -3,7 +3,7 @@
 ## O que?
 <strong> A cada semana vamos aprender uma ferramenta simples, que pode ser muito útil no seu dia a dia de desenvolvedor.</strong>
 
-# Fake Update
+# HTML Online Editor
 <strong>
 	Este programa editor de HTML WYSIWYG gratuito permite que você edite seu código-fonte online sem precisar baixar nenhum aplicativo.<br>
 	LINK:  <a href="https://html-online.com/" target="_blank">https://html-online.com/</a>
