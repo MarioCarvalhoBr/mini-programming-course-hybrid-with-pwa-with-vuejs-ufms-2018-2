@@ -60,8 +60,8 @@
 </strong>
 
 # Go-ahead
-<i>Jamais, em todo o mundo, o ódio acabou com o ódio; o que acaba com o ódio é o amor.</i><br>
-<strong>~ Buda</strong><br>
+<i>"Até um relógio quebrado está certo duas vezes por dia".</i><br>
+<strong>~ Alan Turing</strong><br>
 Histórico de go-ahead's: <a href="GO-AHEAD.md">GO-AHEAD.md</a>
 
 # Ferramenta da Semana

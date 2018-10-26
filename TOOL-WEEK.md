@@ -5,10 +5,16 @@
 
 # Fake Update
 <strong>
+	Este programa editor de HTML WYSIWYG gratuito permite que você edite seu código-fonte online sem precisar baixar nenhum aplicativo.<br>
+	LINK:  <a href="https://html-online.com/" target="_blank">https://html-online.com/</a>
+<br>
+</strong>
+# Fake Update
+<strong>
 	Faça uma pegadinha com os seus colegas usando o Fake Windows Update!<br>
 	Pressione F11 para ativar a tela cheia. <br>
 	Pressione ENTER para causar a tela azul da morte<br>
-	LINK:  <a href="http://fakeupdate.net//" target="_blank">http://fakeupdate.net//</a>
+	LINK:  <a href="http://fakeupdate.net/" target="_blank">http://fakeupdate.net/</a>
 <br>
 </strong>
 
