@@ -3,6 +3,11 @@
 ## O que?
 <strong> A cada semana vamos aprender uma ferramenta simples, que pode ser muito útil no seu dia a dia de desenvolvedor.</strong>
 
+$ CodePen.io
+<strong>
+CodePen is a social development environment for front-end designers and developers. 👋
+It’s the best place to build and deploy a website, show off your work, build test cases, and find inspiration.
+</strong>
 # HTML Online Editor
 <strong>
 	Este programa editor de HTML WYSIWYG gratuito permite que você edite seu código-fonte online sem precisar baixar nenhum aplicativo.<br>
