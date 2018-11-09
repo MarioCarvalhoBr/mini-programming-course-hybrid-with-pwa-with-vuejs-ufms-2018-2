@@ -166,6 +166,15 @@ Acesse agora: <a href="TOOL-WEEK.md">TOOL-WEEK.md</a>
 	Aula 01 (04/10/2018):
 </pre>
 
+# Módulo 02
+<strong>
+	 HTML: Teoria e Prática do Zero: <br>
+	 Introdução a linguagem HTML. Entendedo a estrutura, trabalhando com TAG's... Nível de conhecimento mínimo... e muito mais!
+</strong>
+<pre>
+<b>Conteúdo</b>
+</pre>
+
 # Sobre os códigos
 <strong>Códigos e apresentações desenvolvidos durante o minicurso</strong>
 
