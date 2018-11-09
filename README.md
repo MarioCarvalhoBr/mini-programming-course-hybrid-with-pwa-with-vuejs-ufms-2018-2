@@ -60,8 +60,8 @@
 </strong>
 
 # Go-ahead
-<i>"Até um relógio quebrado está certo duas vezes por dia".</i><br>
-<strong>~ Alan Turing</strong><br>
+<i>"Não deixe que as pessoas te façam desistir daquilo que você mais quer na vida. Acredite. Lute. Conquiste. E acima de tudo, seja feliz.".</i><br>
+<strong>~ Provérbio Popular</strong><br>
 Histórico de go-ahead's: <a href="GO-AHEAD.md">GO-AHEAD.md</a>
 
 # Ferramenta da Semana
