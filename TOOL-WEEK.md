@@ -3,11 +3,21 @@
 ## O que?
 <strong> A cada semana vamos aprender uma ferramenta simples, que pode ser muito útil no seu dia a dia de desenvolvedor.</strong>
 
-$ CodePen.io
+# HTML Color Picker
+<strong>
+HTML Color Picker. Click on the image to get the html codes.. Use the online image color picker right to select a color and get the html Color Code of this pixel. Also you get the HEX value, RGB value and HSV value.<br>
+LINK:  <a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank">https://www.w3schools.com/colors/colors_picker.asp</a>
+<br>
+</strong>
+
+# CodePen.io
 <strong>
 CodePen is a social development environment for front-end designers and developers. 👋
-It’s the best place to build and deploy a website, show off your work, build test cases, and find inspiration.
+It’s the best place to build and deploy a website, show off your work, build test cases, and find inspiration.<br>
+LINK:  <a href="https://codepen.io/" target="_blank">https://codepen.io/</a>
+<br>
 </strong>
+
 # HTML Online Editor
 <strong>
 	Este programa editor de HTML WYSIWYG gratuito permite que você edite seu código-fonte online sem precisar baixar nenhum aplicativo.<br>

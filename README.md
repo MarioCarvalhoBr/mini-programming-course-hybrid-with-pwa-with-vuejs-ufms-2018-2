@@ -60,8 +60,10 @@
 </strong>
 
 # Go-ahead
-<i>"Não deixe que as pessoas te façam desistir daquilo que você mais quer na vida. Acredite. Lute. Conquiste. E acima de tudo, seja feliz.".</i><br>
-<strong>~ Provérbio Popular</strong><br>
+<i>
+"Niguém baterá tão forte quanto a vida. Porém, não se trata de quão forte pode bater, se trata de quão forte pode ser atingido e continuar seguindo em frente. É assim que a vitória é conquistada."
+</i><br>
+<strong>~ Rocky Balboa</strong><br>
 Histórico de go-ahead's: <a href="GO-AHEAD.md">GO-AHEAD.md</a>
 
 # Ferramenta da Semana
@@ -162,14 +164,21 @@ Acesse agora: <a href="TOOL-WEEK.md">TOOL-WEEK.md</a>
 		* Como conseguir uma conta Student do Github Education?
 
 		** Projeto Prático: Criando, entendendo e versionando projetos.
-
-	Aula 01 (04/10/2018):
 </pre>
 
 # Módulo 02
 <strong>
 	 HTML: Teoria e Prática do Zero: <br>
 	 Introdução a linguagem HTML. Entendedo a estrutura, trabalhando com TAG's... Nível de conhecimento mínimo... e muito mais!
+</strong>
+<pre>
+<b>Conteúdo</b>
+</pre>
+
+# Módulo 03
+<strong>
+	 CSS: Teoria e Prática do Zero: <br>
+	 Introdução a linguagem CSS. Entendedo a estrutura, trabalhando com TAG's, classes e ID's... Nível de conhecimento mínimo... e muito mais!
 </strong>
 <pre>
 <b>Conteúdo</b>

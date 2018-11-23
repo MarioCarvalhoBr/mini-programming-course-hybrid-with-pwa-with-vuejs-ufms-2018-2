@@ -1,0 +1,33 @@
+body {
+    /* background-color:  #e0b082f8;*/
+    background-image: url("fundo.png");
+}
+
+/*Formatação global dos parágrafos*/
+/*
+p {
+    color: red;
+    text-align: center;
+}
+*/
+/*Formatação global dos cabeçalhos*/
+h1 {
+    color: blue;
+}
+/*Formatação global dos ID*/
+#paragrafo {
+    color: #fc0000;
+    
+}
+/*Formatação global por classes*/
+.cabecalho {
+    color: blue;
+    text-align: center;
+    font-size: 50 px;
+    border: 2px dashed blue;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 50px 50px 50px 50px;
+    /*border-style: groove;*/
+}
