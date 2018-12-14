@@ -184,6 +184,25 @@ Acesse agora: <a href="TOOL-WEEK.md">TOOL-WEEK.md</a>
 <b>Conteúdo</b>
 </pre>
 
+# Módulo 04
+<strong>
+	 JavaScript: Teoria e Prática do Zero: <br>
+	 Introdução a linguagem JavaScript. Entendedo a estrutura, trabalhando com TAG's, classes e ID's... Nível de conhecimento mínimo... e muito mais!
+</strong>
+<pre>
+<b>Conteúdo</b>
+</pre>
+
+# Módulo 05
+<strong>
+	 Bootstrap: Teoria e Prática do Zero: <br>
+	 Introdução a framework Bootstrap. Entendedo a estrutura, trabalhando com TAG's, classes e ID's... Nível de conhecimento mínimo... e muito mais!
+</strong>
+<pre>
+<b>Conteúdo</b>
+</pre>
+
+
 # Sobre os códigos
 <strong>Códigos e apresentações desenvolvidos durante o minicurso</strong>
 
